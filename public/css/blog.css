@@ -1,0 +1,52 @@
+.blog{
+color: white;
+}
+
+.blog, .article{
+    position: relative;
+    height: fit-content;
+    padding-bottom: 0;
+    color: white;
+}
+
+.article, .title{
+    min-height: auto;
+    height: fit-content;
+    padding: 0 10px;
+    white-space: normal;
+    color: white;
+}
+
+.published{
+    margin: 20px 0 60px;
+    padding: 0 10px;
+    text-transform: capitalize;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+}
+
+.published span{
+    font-weight: 700;
+    font-style: normal;
+}
+
+.article *{
+    margin: 30px 0;
+    color: #ffffff;
+}
+
+.article-image{
+    max-width: 100%;
+    max-height: 400px;
+    display: block;
+    margin: 30px auto;
+    object-fit: contain;
+}
+
+.sub-heading{
+    padding: 0 5vw;
+    color: #fffdfd;
+    font-weight: 500;
+    font-size: 40px;
+    margin-top: 80px;
+}
