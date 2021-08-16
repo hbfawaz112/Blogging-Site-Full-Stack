@@ -14,15 +14,5 @@
  - Firebase Firestore for storing data in Database
 
 # Screenshot
-
-## HomePage
-<img src="https://raw.githubusercontent.com/hbfawaz112/Blogging-Site-Full-Stack/main/ss1.png"/>
-
-## Editor (To write new blog)
-
-<img src="https://raw.githubusercontent.com/hbfawaz112/Blogging-Site-Full-Stack/main/ss3.PNG"/>
-
-## Specific blog
-
-<img src="https://raw.githubusercontent.com/hbfawaz112/Blogging-Site-Full-Stack/main/ss2.png"/>
+<img src="https://raw.githubusercontent.com/hbfawaz112/Blogging-Site-Full-Stack/main/mains.png" />
 
